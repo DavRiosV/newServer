@@ -1,0 +1,25 @@
+[
+  {
+    "name": "nicolas",
+    "last_name": "lopez",
+    "age": 37,
+    "carts": [
+      "celular"
+    ],
+    "id": 2
+  },
+  {
+    "name": "igna",
+    "last_name": "chapero",
+    "age": 30,
+    "carts": [],
+    "id": 3
+  },
+  {
+    "name": "luis",
+    "last_name": "aguilar",
+    "age": 35,
+    "carts": [],
+    "id": 5
+  }
+]
